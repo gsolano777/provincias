@@ -1,0 +1,71 @@
+<html>
+<head>
+ <script src="distritos.js" type="text/javascript"></script>
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script type="text/javascript">  
+  var separator1 = "~";
+  var separator2 = "@";
+   
+  function cargarProvincias(provinciaId) {
+   $("#" + provinciaId).append($("<option></option>")
+    .attr("value", -1).text("Elija una provincia"));  
+   for (var key in p) {
+    $("#" + provinciaId).append($("<option></option>")
+     .attr("value", key).text(p[key]));
+   }
+  }
+   
+  function cargarCantones(provincia, cantonId) {
+   var provinciaSelectedValue =  $(provincia).val();
+   $("#" + cantonId + " option").remove();
+    
+   if(provinciaSelectedValue != -1) {     
+    $("#" + cantonId).append($("<option></option>")
+     .attr("value", -1).text("Elija un cantón")); 
+     
+    var cantones = c[provinciaSelectedValue].split(separator1);
+     
+    for (var i=0; i < cantones.length; i++) {
+     var cantonValuePair = cantones[i].split(separator2);
+     $("#" + cantonId).append($("<option></option>")
+     .attr("value", cantonValuePair[1]).text(cantonValuePair[0]));
+    }    
+   } else {
+    $("#" + cantonId).append($("<option></option>")
+     .attr("value", -2).text("Elija una provincia"));
+   }
+   cargarDistritos($("#" + cantonId), "distritos");
+  }
+   
+  function cargarDistritos(canton, distritoId) {
+   var cantonSelectedValue =  $(canton).val();
+   $("#" + distritoId + " option").remove();
+    
+   if(cantonSelectedValue > 0) {      
+    $("#" + distritoId).append($("<option></option>")
+     .attr("value", -1).text("Elija un distrito")); 
+     
+    var distritos = d[cantonSelectedValue].split(separator1);
+     
+    for (var i=0; i < distritos.length; i++) {
+     var distritoValuePair = distritos[i].split(separator2);
+     $("#" + distritoId).append($("<option></option>")
+     .attr("value", distritoValuePair[1]).text(distritoValuePair[0]));
+    }    
+   } else if(cantonSelectedValue == -1){
+    $("#" + distritoId).append($("<option></option>")
+     .attr("value", -1).text("Elija un cantón")); 
+   } else if(cantonSelectedValue == -2){
+    $("#" + distritoId).append($("<option></option>")
+     .attr("value", -1).text("Elija una provincia")); 
+   }
+  }  
+ </script> 
+</head>
+ 
+<body onload="cargarProvincias('provincias')">
+ <select id="provincias" onchange="cargarCantones(this, 'cantones');"></select>
+ <select id="cantones" onchange="cargarDistritos(this, 'distritos');"><option value="-2">Elija una provincia</option></select>
+ <select id="distritos"><option value="-2">Elija una provincia</option></select>
+</body>
+</html>
