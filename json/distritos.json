@@ -1,0 +1,2352 @@
+[
+  {
+    "nombre": "Carmen",
+    "codigo": "10101",
+    "codigoPadre": "101"
+  },
+  {
+    "nombre": "Merced",
+    "codigo": "10102",
+    "codigoPadre": "101"
+  },
+  {
+    "nombre": "Hospital",
+    "codigo": "10103",
+    "codigoPadre": "101"
+  },
+  {
+    "nombre": "Catedral",
+    "codigo": "10104",
+    "codigoPadre": "101"
+  },
+  {
+    "nombre": "Zapote",
+    "codigo": "10105",
+    "codigoPadre": "101"
+  },
+  {
+    "nombre": "San Francisco de Dos Ríos",
+    "codigo": "10106",
+    "codigoPadre": "101"
+  },
+  {
+    "nombre": "Uruca",
+    "codigo": "10107",
+    "codigoPadre": "101"
+  },
+  {
+    "nombre": "Mata Redonda",
+    "codigo": "10108",
+    "codigoPadre": "101"
+  },
+  {
+    "nombre": "Pavas",
+    "codigo": "10109",
+    "codigoPadre": "101"
+  },
+  {
+    "nombre": "Hatillo",
+    "codigo": "10110",
+    "codigoPadre": "101"
+  },
+  {
+    "nombre": "San Sebastián",
+    "codigo": "10111",
+    "codigoPadre": "101"
+  },
+  {
+    "nombre": "Escazú",
+    "codigo": "10201",
+    "codigoPadre": "102"
+  },
+  {
+    "nombre": "San Antonio",
+    "codigo": "10202",
+    "codigoPadre": "102"
+  },
+  {
+    "nombre": "San Rafael",
+    "codigo": "10203",
+    "codigoPadre": "102"
+  },
+  {
+    "nombre": "Desamparados",
+    "codigo": "10301",
+    "codigoPadre": "103"
+  },
+  {
+    "nombre": "San Miguel",
+    "codigo": "10302",
+    "codigoPadre": "103"
+  },
+  {
+    "nombre": "San Juan de Dios",
+    "codigo": "10303",
+    "codigoPadre": "103"
+  },
+  {
+    "nombre": "San Rafael Arriba",
+    "codigo": "10304",
+    "codigoPadre": "103"
+  },
+  {
+    "nombre": "San Antonio",
+    "codigo": "10305",
+    "codigoPadre": "103"
+  },
+  {
+    "nombre": "Frailes",
+    "codigo": "10306",
+    "codigoPadre": "103"
+  },
+  {
+    "nombre": "Patarrá",
+    "codigo": "10307",
+    "codigoPadre": "103"
+  },
+  {
+    "nombre": "San Cristóbal",
+    "codigo": "10308",
+    "codigoPadre": "103"
+  },
+  {
+    "nombre": "Rosario",
+    "codigo": "10309",
+    "codigoPadre": "103"
+  },
+  {
+    "nombre": "Damas",
+    "codigo": "10310",
+    "codigoPadre": "103"
+  },
+  {
+    "nombre": "San Rafael Abajo",
+    "codigo": "10311",
+    "codigoPadre": "103"
+  },
+  {
+    "nombre": "Gravilias",
+    "codigo": "10312",
+    "codigoPadre": "103"
+  },
+  {
+    "nombre": "Los Guido",
+    "codigo": "10313",
+    "codigoPadre": "103"
+  },
+  {
+    "nombre": "Santiago",
+    "codigo": "10401",
+    "codigoPadre": "104"
+  },
+  {
+    "nombre": "Mercedes Sur",
+    "codigo": "10402",
+    "codigoPadre": "104"
+  },
+  {
+    "nombre": "Barbacoas",
+    "codigo": "10403",
+    "codigoPadre": "104"
+  },
+  {
+    "nombre": "Grifo Alto",
+    "codigo": "10404",
+    "codigoPadre": "104"
+  },
+  {
+    "nombre": "San Rafael",
+    "codigo": "10405",
+    "codigoPadre": "104"
+  },
+  {
+    "nombre": "Candelaria",
+    "codigo": "10406",
+    "codigoPadre": "104"
+  },
+  {
+    "nombre": "Desamparaditos",
+    "codigo": "10407",
+    "codigoPadre": "104"
+  },
+  {
+    "nombre": "San Antonio",
+    "codigo": "10408",
+    "codigoPadre": "104"
+  },
+  {
+    "nombre": "Chires",
+    "codigo": "10409",
+    "codigoPadre": "104"
+  },
+  {
+    "nombre": "San Marcos",
+    "codigo": "10501",
+    "codigoPadre": "105"
+  },
+  {
+    "nombre": "San Lorenzo",
+    "codigo": "10502",
+    "codigoPadre": "105"
+  },
+  {
+    "nombre": "San Carlos",
+    "codigo": "10503",
+    "codigoPadre": "105"
+  },
+  {
+    "nombre": "Aserrí",
+    "codigo": "10601",
+    "codigoPadre": "106"
+  },
+  {
+    "nombre": "Tarbaca o Praga",
+    "codigo": "10602",
+    "codigoPadre": "106"
+  },
+  {
+    "nombre": "Vuelta de Jorco",
+    "codigo": "10603",
+    "codigoPadre": "106"
+  },
+  {
+    "nombre": "San Gabriel",
+    "codigo": "10604",
+    "codigoPadre": "106"
+  },
+  {
+    "nombre": "La Legua",
+    "codigo": "10605",
+    "codigoPadre": "106"
+  },
+  {
+    "nombre": "Monterrey",
+    "codigo": "10606",
+    "codigoPadre": "106"
+  },
+  {
+    "nombre": "Salitrillos",
+    "codigo": "10607",
+    "codigoPadre": "106"
+  },
+  {
+    "nombre": "Colón",
+    "codigo": "10701",
+    "codigoPadre": "107"
+  },
+  {
+    "nombre": "Guayabo",
+    "codigo": "10702",
+    "codigoPadre": "107"
+  },
+  {
+    "nombre": "Tabarcia",
+    "codigo": "10703",
+    "codigoPadre": "107"
+  },
+  {
+    "nombre": "Piedras Negras",
+    "codigo": "10704",
+    "codigoPadre": "107"
+  },
+  {
+    "nombre": "Picagres",
+    "codigo": "10705",
+    "codigoPadre": "107"
+  },
+  {
+    "nombre": "Guadalupe",
+    "codigo": "10801",
+    "codigoPadre": "108"
+  },
+  {
+    "nombre": "San Francisco",
+    "codigo": "10802",
+    "codigoPadre": "108"
+  },
+  {
+    "nombre": "Calle Blancos",
+    "codigo": "10803",
+    "codigoPadre": "108"
+  },
+  {
+    "nombre": "Mata de Plátano",
+    "codigo": "10804",
+    "codigoPadre": "108"
+  },
+  {
+    "nombre": "Ipís",
+    "codigo": "10805",
+    "codigoPadre": "108"
+  },
+  {
+    "nombre": "Rancho Redondo",
+    "codigo": "10806",
+    "codigoPadre": "108"
+  },
+  {
+    "nombre": "Purral",
+    "codigo": "10807",
+    "codigoPadre": "108"
+  },
+  {
+    "nombre": "Santa Ana",
+    "codigo": "10901",
+    "codigoPadre": "109"
+  },
+  {
+    "nombre": "Salitral",
+    "codigo": "10902",
+    "codigoPadre": "109"
+  },
+  {
+    "nombre": "Pozos o Concepción",
+    "codigo": "10903",
+    "codigoPadre": "109"
+  },
+  {
+    "nombre": "Uruca o San Joaquín",
+    "codigo": "10904",
+    "codigoPadre": "109"
+  },
+  {
+    "nombre": "Piedades",
+    "codigo": "10905",
+    "codigoPadre": "109"
+  },
+  {
+    "nombre": "Brasil",
+    "codigo": "10906",
+    "codigoPadre": "109"
+  },
+  {
+    "nombre": "Alajuelita",
+    "codigo": "11001",
+    "codigoPadre": "110"
+  },
+  {
+    "nombre": "San Josecito",
+    "codigo": "11002",
+    "codigoPadre": "110"
+  },
+  {
+    "nombre": "San Antonio",
+    "codigo": "11003",
+    "codigoPadre": "110"
+  },
+  {
+    "nombre": "Concepción",
+    "codigo": "11004",
+    "codigoPadre": "110"
+  },
+  {
+    "nombre": "San Felipe",
+    "codigo": "11005",
+    "codigoPadre": "110"
+  },
+  {
+    "nombre": "San Isidro",
+    "codigo": "11101",
+    "codigoPadre": "111"
+  },
+  {
+    "nombre": "San Rafael",
+    "codigo": "11102",
+    "codigoPadre": "111"
+  },
+  {
+    "nombre": "Dulce Nombre de Jesús",
+    "codigo": "11103",
+    "codigoPadre": "111"
+  },
+  {
+    "nombre": "Patalillo",
+    "codigo": "11104",
+    "codigoPadre": "111"
+  },
+  {
+    "nombre": "Cascajal",
+    "codigo": "11105",
+    "codigoPadre": "111"
+  },
+  {
+    "nombre": "San Ignacio",
+    "codigo": "11201",
+    "codigoPadre": "112"
+  },
+  {
+    "nombre": "Guaitil",
+    "codigo": "11202",
+    "codigoPadre": "112"
+  },
+  {
+    "nombre": "Palmichal",
+    "codigo": "11203",
+    "codigoPadre": "112"
+  },
+  {
+    "nombre": "Cangrejal",
+    "codigo": "11204",
+    "codigoPadre": "112"
+  },
+  {
+    "nombre": "Sabanillas",
+    "codigo": "11205",
+    "codigoPadre": "112"
+  },
+  {
+    "nombre": "San Juan",
+    "codigo": "11301",
+    "codigoPadre": "113"
+  },
+  {
+    "nombre": "Cinco Esquinas",
+    "codigo": "11302",
+    "codigoPadre": "113"
+  },
+  {
+    "nombre": "Anselmo Llorente",
+    "codigo": "11303",
+    "codigoPadre": "113"
+  },
+  {
+    "nombre": "León XIII",
+    "codigo": "11304",
+    "codigoPadre": "113"
+  },
+  {
+    "nombre": "Colima",
+    "codigo": "11305",
+    "codigoPadre": "113"
+  },
+  {
+    "nombre": "San Vicente",
+    "codigo": "11401",
+    "codigoPadre": "114"
+  },
+  {
+    "nombre": "San Jerónimo",
+    "codigo": "11402",
+    "codigoPadre": "114"
+  },
+  {
+    "nombre": "Trinidad",
+    "codigo": "11403",
+    "codigoPadre": "114"
+  },
+  {
+    "nombre": "San Pedro",
+    "codigo": "11501",
+    "codigoPadre": "115"
+  },
+  {
+    "nombre": "Sabanilla",
+    "codigo": "11502",
+    "codigoPadre": "115"
+  },
+  {
+    "nombre": "Mercedes o Betania",
+    "codigo": "11503",
+    "codigoPadre": "115"
+  },
+  {
+    "nombre": "San Rafael",
+    "codigo": "11504",
+    "codigoPadre": "115"
+  },
+  {
+    "nombre": "San Pablo",
+    "codigo": "11601",
+    "codigoPadre": "116"
+  },
+  {
+    "nombre": "San Pedro",
+    "codigo": "11602",
+    "codigoPadre": "116"
+  },
+  {
+    "nombre": "San Juan de Mata",
+    "codigo": "11603",
+    "codigoPadre": "116"
+  },
+  {
+    "nombre": "San Luis",
+    "codigo": "11604",
+    "codigoPadre": "116"
+  },
+  {
+    "nombre": "Cárara",
+    "codigo": "11605",
+    "codigoPadre": "116"
+  },
+  {
+    "nombre": "Santa María",
+    "codigo": "11701",
+    "codigoPadre": "117"
+  },
+  {
+    "nombre": "Jardín",
+    "codigo": "11702",
+    "codigoPadre": "117"
+  },
+  {
+    "nombre": "Copey",
+    "codigo": "11703",
+    "codigoPadre": "117"
+  },
+  {
+    "nombre": "Curridabat",
+    "codigo": "11801",
+    "codigoPadre": "118"
+  },
+  {
+    "nombre": "Granadilla",
+    "codigo": "11802",
+    "codigoPadre": "118"
+  },
+  {
+    "nombre": "Sánchez",
+    "codigo": "11803",
+    "codigoPadre": "118"
+  },
+  {
+    "nombre": "Tirrases",
+    "codigo": "11804",
+    "codigoPadre": "118"
+  },
+  {
+    "nombre": "San Isidro de el General",
+    "codigo": "11901",
+    "codigoPadre": "119"
+  },
+  {
+    "nombre": "General",
+    "codigo": "11902",
+    "codigoPadre": "119"
+  },
+  {
+    "nombre": "Daniel Flores",
+    "codigo": "11903",
+    "codigoPadre": "119"
+  },
+  {
+    "nombre": "Rivas",
+    "codigo": "11904",
+    "codigoPadre": "119"
+  },
+  {
+    "nombre": "San Pedro",
+    "codigo": "11905",
+    "codigoPadre": "119"
+  },
+  {
+    "nombre": "Platanares",
+    "codigo": "11906",
+    "codigoPadre": "119"
+  },
+  {
+    "nombre": "Pejibaye",
+    "codigo": "11907",
+    "codigoPadre": "119"
+  },
+  {
+    "nombre": "Cajón",
+    "codigo": "11908",
+    "codigoPadre": "119"
+  },
+  {
+    "nombre": "Barú",
+    "codigo": "11909",
+    "codigoPadre": "119"
+  },
+  {
+    "nombre": "Río Nuevo",
+    "codigo": "11910",
+    "codigoPadre": "119"
+  },
+  {
+    "nombre": "Páramo",
+    "codigo": "11911",
+    "codigoPadre": "119"
+  },
+  {
+    "nombre": "San Pablo",
+    "codigo": "12001",
+    "codigoPadre": "120"
+  },
+  {
+    "nombre": "San Andrés",
+    "codigo": "12002",
+    "codigoPadre": "120"
+  },
+  {
+    "nombre": "Llano Bonito",
+    "codigo": "12003",
+    "codigoPadre": "120"
+  },
+  {
+    "nombre": "San Isidro",
+    "codigo": "12004",
+    "codigoPadre": "120"
+  },
+  {
+    "nombre": "Santa Cruz",
+    "codigo": "12005",
+    "codigoPadre": "120"
+  },
+  {
+    "nombre": "San Antonio",
+    "codigo": "12006",
+    "codigoPadre": "120"
+  },
+  {
+    "nombre": "Alajuela",
+    "codigo": "20101",
+    "codigoPadre": "201"
+  },
+  {
+    "nombre": "San José",
+    "codigo": "20102",
+    "codigoPadre": "201"
+  },
+  {
+    "nombre": "Carrizal",
+    "codigo": "20103",
+    "codigoPadre": "201"
+  },
+  {
+    "nombre": "San Antonio",
+    "codigo": "20104",
+    "codigoPadre": "201"
+  },
+  {
+    "nombre": "Guácima",
+    "codigo": "20105",
+    "codigoPadre": "201"
+  },
+  {
+    "nombre": "San Isidro",
+    "codigo": "20106",
+    "codigoPadre": "201"
+  },
+  {
+    "nombre": "Sabanilla",
+    "codigo": "20107",
+    "codigoPadre": "201"
+  },
+  {
+    "nombre": "San Rafael",
+    "codigo": "20108",
+    "codigoPadre": "201"
+  },
+  {
+    "nombre": "Río Segundo",
+    "codigo": "20109",
+    "codigoPadre": "201"
+  },
+  {
+    "nombre": "Desamparados",
+    "codigo": "20110",
+    "codigoPadre": "201"
+  },
+  {
+    "nombre": "Turrucares",
+    "codigo": "20111",
+    "codigoPadre": "201"
+  },
+  {
+    "nombre": "Tambor",
+    "codigo": "20112",
+    "codigoPadre": "201"
+  },
+  {
+    "nombre": "La Garita",
+    "codigo": "20113",
+    "codigoPadre": "201"
+  },
+  {
+    "nombre": "Sarapiquí",
+    "codigo": "20114",
+    "codigoPadre": "201"
+  },
+  {
+    "nombre": "San Ramón",
+    "codigo": "20201",
+    "codigoPadre": "202"
+  },
+  {
+    "nombre": "Santiago",
+    "codigo": "20202",
+    "codigoPadre": "202"
+  },
+  {
+    "nombre": "San Juan",
+    "codigo": "20203",
+    "codigoPadre": "202"
+  },
+  {
+    "nombre": "Piedades Norte",
+    "codigo": "20204",
+    "codigoPadre": "202"
+  },
+  {
+    "nombre": "Piedades Sur",
+    "codigo": "20205",
+    "codigoPadre": "202"
+  },
+  {
+    "nombre": "San Rafael",
+    "codigo": "20206",
+    "codigoPadre": "202"
+  },
+  {
+    "nombre": "San Isidro",
+    "codigo": "20207",
+    "codigoPadre": "202"
+  },
+  {
+    "nombre": "Angeles",
+    "codigo": "20208",
+    "codigoPadre": "202"
+  },
+  {
+    "nombre": "Alfaro",
+    "codigo": "20209",
+    "codigoPadre": "202"
+  },
+  {
+    "nombre": "Volio",
+    "codigo": "20210",
+    "codigoPadre": "202"
+  },
+  {
+    "nombre": "Concepción",
+    "codigo": "20211",
+    "codigoPadre": "202"
+  },
+  {
+    "nombre": "Zapotal",
+    "codigo": "20212",
+    "codigoPadre": "202"
+  },
+  {
+    "nombre": "San Isidro de Peñas Blancas",
+    "codigo": "20213",
+    "codigoPadre": "202"
+  },
+  {
+    "nombre": "Grecia",
+    "codigo": "20301",
+    "codigoPadre": "203"
+  },
+  {
+    "nombre": "San Isidro",
+    "codigo": "20302",
+    "codigoPadre": "203"
+  },
+  {
+    "nombre": "San José",
+    "codigo": "20303",
+    "codigoPadre": "203"
+  },
+  {
+    "nombre": "San Roque",
+    "codigo": "20304",
+    "codigoPadre": "203"
+  },
+  {
+    "nombre": "Tacares",
+    "codigo": "20305",
+    "codigoPadre": "203"
+  },
+  {
+    "nombre": "Río Cuarto",
+    "codigo": "20306",
+    "codigoPadre": "203"
+  },
+  {
+    "nombre": "Puente Piedra",
+    "codigo": "20307",
+    "codigoPadre": "203"
+  },
+  {
+    "nombre": "Bolívar",
+    "codigo": "20308",
+    "codigoPadre": "203"
+  },
+  {
+    "nombre": "San Mateo",
+    "codigo": "20401",
+    "codigoPadre": "204"
+  },
+  {
+    "nombre": "Desmonte",
+    "codigo": "20402",
+    "codigoPadre": "204"
+  },
+  {
+    "nombre": "Jesús María",
+    "codigo": "20403",
+    "codigoPadre": "204"
+  },
+  {
+    "nombre": "Atenas",
+    "codigo": "20501",
+    "codigoPadre": "205"
+  },
+  {
+    "nombre": "Jesús",
+    "codigo": "20502",
+    "codigoPadre": "205"
+  },
+  {
+    "nombre": "Mercedes",
+    "codigo": "20503",
+    "codigoPadre": "205"
+  },
+  {
+    "nombre": "San Isidro",
+    "codigo": "20504",
+    "codigoPadre": "205"
+  },
+  {
+    "nombre": "Concepción",
+    "codigo": "20505",
+    "codigoPadre": "205"
+  },
+  {
+    "nombre": "San José",
+    "codigo": "20506",
+    "codigoPadre": "205"
+  },
+  {
+    "nombre": "Santa Eulalia",
+    "codigo": "20507",
+    "codigoPadre": "205"
+  },
+  {
+    "nombre": "Escobal",
+    "codigo": "20508",
+    "codigoPadre": "205"
+  },
+  {
+    "nombre": "Naranjo",
+    "codigo": "20601",
+    "codigoPadre": "206"
+  },
+  {
+    "nombre": "San Miguel",
+    "codigo": "20602",
+    "codigoPadre": "206"
+  },
+  {
+    "nombre": "San José",
+    "codigo": "20603",
+    "codigoPadre": "206"
+  },
+  {
+    "nombre": "Cirrí Sur",
+    "codigo": "20604",
+    "codigoPadre": "206"
+  },
+  {
+    "nombre": "San Jerónimo",
+    "codigo": "20605",
+    "codigoPadre": "206"
+  },
+  {
+    "nombre": "San Juan",
+    "codigo": "20606",
+    "codigoPadre": "206"
+  },
+  {
+    "nombre": "Rosario",
+    "codigo": "20607",
+    "codigoPadre": "206"
+  },
+  {
+    "nombre": "Palmares",
+    "codigo": "20701",
+    "codigoPadre": "207"
+  },
+  {
+    "nombre": "Zaragoza",
+    "codigo": "20702",
+    "codigoPadre": "207"
+  },
+  {
+    "nombre": "Buenos Aires",
+    "codigo": "20703",
+    "codigoPadre": "207"
+  },
+  {
+    "nombre": "Santiago",
+    "codigo": "20704",
+    "codigoPadre": "207"
+  },
+  {
+    "nombre": "Candelaria",
+    "codigo": "20705",
+    "codigoPadre": "207"
+  },
+  {
+    "nombre": "Esquipulas",
+    "codigo": "20706",
+    "codigoPadre": "207"
+  },
+  {
+    "nombre": "La Granja",
+    "codigo": "20707",
+    "codigoPadre": "207"
+  },
+  {
+    "nombre": "San Pedro",
+    "codigo": "20801",
+    "codigoPadre": "208"
+  },
+  {
+    "nombre": "San Juan",
+    "codigo": "20802",
+    "codigoPadre": "208"
+  },
+  {
+    "nombre": "San Rafael",
+    "codigo": "20803",
+    "codigoPadre": "208"
+  },
+  {
+    "nombre": "Carrillos",
+    "codigo": "20804",
+    "codigoPadre": "208"
+  },
+  {
+    "nombre": "Sabana Redonda",
+    "codigo": "20805",
+    "codigoPadre": "208"
+  },
+  {
+    "nombre": "Orotina",
+    "codigo": "20901",
+    "codigoPadre": "209"
+  },
+  {
+    "nombre": "Mastate",
+    "codigo": "20902",
+    "codigoPadre": "209"
+  },
+  {
+    "nombre": "Hacienda Vieja",
+    "codigo": "20903",
+    "codigoPadre": "209"
+  },
+  {
+    "nombre": "Coyolar",
+    "codigo": "20904",
+    "codigoPadre": "209"
+  },
+  {
+    "nombre": "Ceiba",
+    "codigo": "20905",
+    "codigoPadre": "209"
+  },
+  {
+    "nombre": "Quesada",
+    "codigo": "21001",
+    "codigoPadre": "210"
+  },
+  {
+    "nombre": "Florencia",
+    "codigo": "21002",
+    "codigoPadre": "210"
+  },
+  {
+    "nombre": "Buenavista",
+    "codigo": "21003",
+    "codigoPadre": "210"
+  },
+  {
+    "nombre": "Aguas Zarcas",
+    "codigo": "21004",
+    "codigoPadre": "210"
+  },
+  {
+    "nombre": "Venecia",
+    "codigo": "21005",
+    "codigoPadre": "210"
+  },
+  {
+    "nombre": "Pital",
+    "codigo": "21006",
+    "codigoPadre": "210"
+  },
+  {
+    "nombre": "Fortuna",
+    "codigo": "21007",
+    "codigoPadre": "210"
+  },
+  {
+    "nombre": "Tigra",
+    "codigo": "21008",
+    "codigoPadre": "210"
+  },
+  {
+    "nombre": "Palmera",
+    "codigo": "21009",
+    "codigoPadre": "210"
+  },
+  {
+    "nombre": "Venado",
+    "codigo": "21010",
+    "codigoPadre": "210"
+  },
+  {
+    "nombre": "Cutris",
+    "codigo": "21011",
+    "codigoPadre": "210"
+  },
+  {
+    "nombre": "Monterrey",
+    "codigo": "21012",
+    "codigoPadre": "210"
+  },
+  {
+    "nombre": "Pocosol",
+    "codigo": "21013",
+    "codigoPadre": "210"
+  },
+  {
+    "nombre": "Zarcero",
+    "codigo": "21101",
+    "codigoPadre": "211"
+  },
+  {
+    "nombre": "Laguna",
+    "codigo": "21102",
+    "codigoPadre": "211"
+  },
+  {
+    "nombre": "Tapezco",
+    "codigo": "21103",
+    "codigoPadre": "211"
+  },
+  {
+    "nombre": "Guadalupe",
+    "codigo": "21104",
+    "codigoPadre": "211"
+  },
+  {
+    "nombre": "Palmira",
+    "codigo": "21105",
+    "codigoPadre": "211"
+  },
+  {
+    "nombre": "Zapote",
+    "codigo": "21106",
+    "codigoPadre": "211"
+  },
+  {
+    "nombre": "Las Brisas",
+    "codigo": "21107",
+    "codigoPadre": "211"
+  },
+  {
+    "nombre": "Sarchí Norte",
+    "codigo": "21201",
+    "codigoPadre": "212"
+  },
+  {
+    "nombre": "Sarchí Sur",
+    "codigo": "21202",
+    "codigoPadre": "212"
+  },
+  {
+    "nombre": "Toro Amarillo",
+    "codigo": "21203",
+    "codigoPadre": "212"
+  },
+  {
+    "nombre": "San Pedro",
+    "codigo": "21204",
+    "codigoPadre": "212"
+  },
+  {
+    "nombre": "Rodríguez",
+    "codigo": "21205",
+    "codigoPadre": "212"
+  },
+  {
+    "nombre": "Upala",
+    "codigo": "21301",
+    "codigoPadre": "213"
+  },
+  {
+    "nombre": "Aguas Claras",
+    "codigo": "21302",
+    "codigoPadre": "213"
+  },
+  {
+    "nombre": "San José o Pizote",
+    "codigo": "21303",
+    "codigoPadre": "213"
+  },
+  {
+    "nombre": "Bijagua",
+    "codigo": "21304",
+    "codigoPadre": "213"
+  },
+  {
+    "nombre": "Delicias",
+    "codigo": "21305",
+    "codigoPadre": "213"
+  },
+  {
+    "nombre": "Dos Ríos",
+    "codigo": "21306",
+    "codigoPadre": "213"
+  },
+  {
+    "nombre": "Yolillal",
+    "codigo": "21307",
+    "codigoPadre": "213"
+  },
+  {
+    "nombre": "Los Chiles",
+    "codigo": "21401",
+    "codigoPadre": "214"
+  },
+  {
+    "nombre": "Caño Negro",
+    "codigo": "21402",
+    "codigoPadre": "214"
+  },
+  {
+    "nombre": "Amparo",
+    "codigo": "21403",
+    "codigoPadre": "214"
+  },
+  {
+    "nombre": "San Jorge",
+    "codigo": "21404",
+    "codigoPadre": "214"
+  },
+  {
+    "nombre": "San Rafael",
+    "codigo": "21501",
+    "codigoPadre": "215"
+  },
+  {
+    "nombre": "Buenavista",
+    "codigo": "21502",
+    "codigoPadre": "215"
+  },
+  {
+    "nombre": "Cote",
+    "codigo": "21503",
+    "codigoPadre": "215"
+  },
+  {
+    "nombre": "Oriental",
+    "codigo": "30101",
+    "codigoPadre": "301"
+  },
+  {
+    "nombre": "Occidental",
+    "codigo": "30102",
+    "codigoPadre": "301"
+  },
+  {
+    "nombre": "Carmen",
+    "codigo": "30103",
+    "codigoPadre": "301"
+  },
+  {
+    "nombre": "San Nicolás",
+    "codigo": "30104",
+    "codigoPadre": "301"
+  },
+  {
+    "nombre": "Aguacaliente o San Francisco",
+    "codigo": "30105",
+    "codigoPadre": "301"
+  },
+  {
+    "nombre": "Guadalupe o Arenilla",
+    "codigo": "30106",
+    "codigoPadre": "301"
+  },
+  {
+    "nombre": "Corralillo",
+    "codigo": "30107",
+    "codigoPadre": "301"
+  },
+  {
+    "nombre": "Tierra Blanca",
+    "codigo": "30108",
+    "codigoPadre": "301"
+  },
+  {
+    "nombre": "Dulce Nombre",
+    "codigo": "30109",
+    "codigoPadre": "301"
+  },
+  {
+    "nombre": "Llano Grande",
+    "codigo": "30110",
+    "codigoPadre": "301"
+  },
+  {
+    "nombre": "Quebradilla",
+    "codigo": "30111",
+    "codigoPadre": "301"
+  },
+  {
+    "nombre": "Paraíso",
+    "codigo": "30201",
+    "codigoPadre": "302"
+  },
+  {
+    "nombre": "Santiago",
+    "codigo": "30202",
+    "codigoPadre": "302"
+  },
+  {
+    "nombre": "Orosi",
+    "codigo": "30203",
+    "codigoPadre": "302"
+  },
+  {
+    "nombre": "Cachí",
+    "codigo": "30204",
+    "codigoPadre": "302"
+  },
+  {
+    "nombre": "Los Llanos de Santa Lucía",
+    "codigo": "30205",
+    "codigoPadre": "302"
+  },
+  {
+    "nombre": "Tres Ríos",
+    "codigo": "30301",
+    "codigoPadre": "303"
+  },
+  {
+    "nombre": "San Diego",
+    "codigo": "30302",
+    "codigoPadre": "303"
+  },
+  {
+    "nombre": "San Juan",
+    "codigo": "30303",
+    "codigoPadre": "303"
+  },
+  {
+    "nombre": "San Rafael",
+    "codigo": "30304",
+    "codigoPadre": "303"
+  },
+  {
+    "nombre": "Concepción",
+    "codigo": "30305",
+    "codigoPadre": "303"
+  },
+  {
+    "nombre": "Dulce Nombre",
+    "codigo": "30306",
+    "codigoPadre": "303"
+  },
+  {
+    "nombre": "San Ramón",
+    "codigo": "30307",
+    "codigoPadre": "303"
+  },
+  {
+    "nombre": "Río Azul",
+    "codigo": "30308",
+    "codigoPadre": "303"
+  },
+  {
+    "nombre": "Juan Viñas",
+    "codigo": "30401",
+    "codigoPadre": "304"
+  },
+  {
+    "nombre": "Tucurrique",
+    "codigo": "30402",
+    "codigoPadre": "304"
+  },
+  {
+    "nombre": "Pejibaye",
+    "codigo": "30403",
+    "codigoPadre": "304"
+  },
+  {
+    "nombre": "Turrialba",
+    "codigo": "30501",
+    "codigoPadre": "305"
+  },
+  {
+    "nombre": "La Suiza",
+    "codigo": "30502",
+    "codigoPadre": "305"
+  },
+  {
+    "nombre": "Peralta",
+    "codigo": "30503",
+    "codigoPadre": "305"
+  },
+  {
+    "nombre": "Santa Cruz",
+    "codigo": "30504",
+    "codigoPadre": "305"
+  },
+  {
+    "nombre": "Santa Teresita",
+    "codigo": "30505",
+    "codigoPadre": "305"
+  },
+  {
+    "nombre": "Pavones",
+    "codigo": "30506",
+    "codigoPadre": "305"
+  },
+  {
+    "nombre": "Tuis",
+    "codigo": "30507",
+    "codigoPadre": "305"
+  },
+  {
+    "nombre": "Tayutic",
+    "codigo": "30508",
+    "codigoPadre": "305"
+  },
+  {
+    "nombre": "Santa Rosa",
+    "codigo": "30509",
+    "codigoPadre": "305"
+  },
+  {
+    "nombre": "Tres Equis",
+    "codigo": "30510",
+    "codigoPadre": "305"
+  },
+  {
+    "nombre": "La Isabel",
+    "codigo": "30511",
+    "codigoPadre": "305"
+  },
+  {
+    "nombre": "Chirripó",
+    "codigo": "30512",
+    "codigoPadre": "305"
+  },
+  {
+    "nombre": "Pacayas",
+    "codigo": "30601",
+    "codigoPadre": "306"
+  },
+  {
+    "nombre": "Cervantes",
+    "codigo": "30602",
+    "codigoPadre": "306"
+  },
+  {
+    "nombre": "Capellades",
+    "codigo": "30603",
+    "codigoPadre": "306"
+  },
+  {
+    "nombre": "San Rafael",
+    "codigo": "30701",
+    "codigoPadre": "307"
+  },
+  {
+    "nombre": "Cot",
+    "codigo": "30702",
+    "codigoPadre": "307"
+  },
+  {
+    "nombre": "Potrero Cerrado",
+    "codigo": "30703",
+    "codigoPadre": "307"
+  },
+  {
+    "nombre": "Cipreses",
+    "codigo": "30704",
+    "codigoPadre": "307"
+  },
+  {
+    "nombre": "Santa Rosa",
+    "codigo": "30705",
+    "codigoPadre": "307"
+  },
+  {
+    "nombre": "El Tejar",
+    "codigo": "30801",
+    "codigoPadre": "308"
+  },
+  {
+    "nombre": "San Isidro",
+    "codigo": "30802",
+    "codigoPadre": "308"
+  },
+  {
+    "nombre": "Tobosi",
+    "codigo": "30803",
+    "codigoPadre": "308"
+  },
+  {
+    "nombre": "Patio de Agua",
+    "codigo": "30804",
+    "codigoPadre": "308"
+  },
+  {
+    "nombre": "Heredia",
+    "codigo": "40101",
+    "codigoPadre": "401"
+  },
+  {
+    "nombre": "Mercedes",
+    "codigo": "40102",
+    "codigoPadre": "401"
+  },
+  {
+    "nombre": "San Francisco",
+    "codigo": "40103",
+    "codigoPadre": "401"
+  },
+  {
+    "nombre": "Ulloa",
+    "codigo": "40104",
+    "codigoPadre": "401"
+  },
+  {
+    "nombre": "Varablanca",
+    "codigo": "40105",
+    "codigoPadre": "401"
+  },
+  {
+    "nombre": "Barva",
+    "codigo": "40201",
+    "codigoPadre": "402"
+  },
+  {
+    "nombre": "San Pedro",
+    "codigo": "40202",
+    "codigoPadre": "402"
+  },
+  {
+    "nombre": "San Pablo",
+    "codigo": "40203",
+    "codigoPadre": "402"
+  },
+  {
+    "nombre": "San Roque",
+    "codigo": "40204",
+    "codigoPadre": "402"
+  },
+  {
+    "nombre": "Santa Lucía",
+    "codigo": "40205",
+    "codigoPadre": "402"
+  },
+  {
+    "nombre": "San José de la Montaña",
+    "codigo": "40206",
+    "codigoPadre": "402"
+  },
+  {
+    "nombre": "Santo Domingo",
+    "codigo": "40301",
+    "codigoPadre": "403"
+  },
+  {
+    "nombre": "San Vicente",
+    "codigo": "40302",
+    "codigoPadre": "403"
+  },
+  {
+    "nombre": "San Miguel",
+    "codigo": "40303",
+    "codigoPadre": "403"
+  },
+  {
+    "nombre": "Paracito",
+    "codigo": "40304",
+    "codigoPadre": "403"
+  },
+  {
+    "nombre": "Santo Tomás",
+    "codigo": "40305",
+    "codigoPadre": "403"
+  },
+  {
+    "nombre": "Santa Rosa",
+    "codigo": "40306",
+    "codigoPadre": "403"
+  },
+  {
+    "nombre": "Tures",
+    "codigo": "40307",
+    "codigoPadre": "403"
+  },
+  {
+    "nombre": "Pará",
+    "codigo": "40308",
+    "codigoPadre": "403"
+  },
+  {
+    "nombre": "Santa Bárbara",
+    "codigo": "40401",
+    "codigoPadre": "404"
+  },
+  {
+    "nombre": "San Pedro",
+    "codigo": "40402",
+    "codigoPadre": "404"
+  },
+  {
+    "nombre": "San Juan",
+    "codigo": "40403",
+    "codigoPadre": "404"
+  },
+  {
+    "nombre": "Jesús",
+    "codigo": "40404",
+    "codigoPadre": "404"
+  },
+  {
+    "nombre": "Santo Domingo del Roble",
+    "codigo": "40405",
+    "codigoPadre": "404"
+  },
+  {
+    "nombre": "Puraba",
+    "codigo": "40406",
+    "codigoPadre": "404"
+  },
+  {
+    "nombre": "San Rafael",
+    "codigo": "40501",
+    "codigoPadre": "405"
+  },
+  {
+    "nombre": "San Josecito",
+    "codigo": "40502",
+    "codigoPadre": "405"
+  },
+  {
+    "nombre": "Santiago",
+    "codigo": "40503",
+    "codigoPadre": "405"
+  },
+  {
+    "nombre": "Angeles",
+    "codigo": "40504",
+    "codigoPadre": "405"
+  },
+  {
+    "nombre": "Concepción",
+    "codigo": "40505",
+    "codigoPadre": "405"
+  },
+  {
+    "nombre": "San Isidro",
+    "codigo": "40601",
+    "codigoPadre": "406"
+  },
+  {
+    "nombre": "San José",
+    "codigo": "40602",
+    "codigoPadre": "406"
+  },
+  {
+    "nombre": "Concepción",
+    "codigo": "40603",
+    "codigoPadre": "406"
+  },
+  {
+    "nombre": "San Francisco",
+    "codigo": "40604",
+    "codigoPadre": "406"
+  },
+  {
+    "nombre": "San Antonio",
+    "codigo": "40701",
+    "codigoPadre": "407"
+  },
+  {
+    "nombre": "La Ribera",
+    "codigo": "40702",
+    "codigoPadre": "407"
+  },
+  {
+    "nombre": "Asunción",
+    "codigo": "40703",
+    "codigoPadre": "407"
+  },
+  {
+    "nombre": "San Joaquín",
+    "codigo": "40801",
+    "codigoPadre": "408"
+  },
+  {
+    "nombre": "Barrantes",
+    "codigo": "40802",
+    "codigoPadre": "408"
+  },
+  {
+    "nombre": "Llorente",
+    "codigo": "40803",
+    "codigoPadre": "408"
+  },
+  {
+    "nombre": "San Pablo",
+    "codigo": "40901",
+    "codigoPadre": "409"
+  },
+  {
+    "nombre": "Puerto Viejo",
+    "codigo": "41001",
+    "codigoPadre": "410"
+  },
+  {
+    "nombre": "La Virgen",
+    "codigo": "41002",
+    "codigoPadre": "410"
+  },
+  {
+    "nombre": "Horquetas",
+    "codigo": "41003",
+    "codigoPadre": "410"
+  },
+  {
+    "nombre": "Llanuras de Gaspar",
+    "codigo": "41004",
+    "codigoPadre": "410"
+  },
+  {
+    "nombre": "Cureña",
+    "codigo": "41005",
+    "codigoPadre": "410"
+  },
+  {
+    "nombre": "Liberia",
+    "codigo": "50101",
+    "codigoPadre": "501"
+  },
+  {
+    "nombre": "Cañas Dulces",
+    "codigo": "50102",
+    "codigoPadre": "501"
+  },
+  {
+    "nombre": "Mayorga",
+    "codigo": "50103",
+    "codigoPadre": "501"
+  },
+  {
+    "nombre": "Nacascolo",
+    "codigo": "50104",
+    "codigoPadre": "501"
+  },
+  {
+    "nombre": "Curubande",
+    "codigo": "50105",
+    "codigoPadre": "501"
+  },
+  {
+    "nombre": "Nicoya",
+    "codigo": "50201",
+    "codigoPadre": "502"
+  },
+  {
+    "nombre": "Mansión",
+    "codigo": "50202",
+    "codigoPadre": "502"
+  },
+  {
+    "nombre": "San Antonio",
+    "codigo": "50203",
+    "codigoPadre": "502"
+  },
+  {
+    "nombre": "Quebrada Honda",
+    "codigo": "50204",
+    "codigoPadre": "502"
+  },
+  {
+    "nombre": "Sámara",
+    "codigo": "50205",
+    "codigoPadre": "502"
+  },
+  {
+    "nombre": "Nósara",
+    "codigo": "50206",
+    "codigoPadre": "502"
+  },
+  {
+    "nombre": "Belén de Nosarita",
+    "codigo": "50207",
+    "codigoPadre": "502"
+  },
+  {
+    "nombre": "Santa Cruz",
+    "codigo": "50301",
+    "codigoPadre": "503"
+  },
+  {
+    "nombre": "Bolsón",
+    "codigo": "50302",
+    "codigoPadre": "503"
+  },
+  {
+    "nombre": "Veintisiete de Abril",
+    "codigo": "50303",
+    "codigoPadre": "503"
+  },
+  {
+    "nombre": "Tempate",
+    "codigo": "50304",
+    "codigoPadre": "503"
+  },
+  {
+    "nombre": "Cartagena",
+    "codigo": "50305",
+    "codigoPadre": "503"
+  },
+  {
+    "nombre": "Cuajiniquil",
+    "codigo": "50306",
+    "codigoPadre": "503"
+  },
+  {
+    "nombre": "Diriá",
+    "codigo": "50307",
+    "codigoPadre": "503"
+  },
+  {
+    "nombre": "Cabo Velas",
+    "codigo": "50308",
+    "codigoPadre": "503"
+  },
+  {
+    "nombre": "Tamarindo",
+    "codigo": "50309",
+    "codigoPadre": "503"
+  },
+  {
+    "nombre": "Bagaces",
+    "codigo": "50401",
+    "codigoPadre": "504"
+  },
+  {
+    "nombre": "Fortuna",
+    "codigo": "50402",
+    "codigoPadre": "504"
+  },
+  {
+    "nombre": "Mogote",
+    "codigo": "50403",
+    "codigoPadre": "504"
+  },
+  {
+    "nombre": "Río Naranjo",
+    "codigo": "50404",
+    "codigoPadre": "504"
+  },
+  {
+    "nombre": "Filadelfia",
+    "codigo": "50501",
+    "codigoPadre": "505"
+  },
+  {
+    "nombre": "Palmira",
+    "codigo": "50502",
+    "codigoPadre": "505"
+  },
+  {
+    "nombre": "Sardinal",
+    "codigo": "50503",
+    "codigoPadre": "505"
+  },
+  {
+    "nombre": "Belén",
+    "codigo": "50504",
+    "codigoPadre": "505"
+  },
+  {
+    "nombre": "Cañas",
+    "codigo": "50601",
+    "codigoPadre": "506"
+  },
+  {
+    "nombre": "Palmira",
+    "codigo": "50602",
+    "codigoPadre": "506"
+  },
+  {
+    "nombre": "San Miguel",
+    "codigo": "50603",
+    "codigoPadre": "506"
+  },
+  {
+    "nombre": "Bebedero",
+    "codigo": "50604",
+    "codigoPadre": "506"
+  },
+  {
+    "nombre": "Porozal",
+    "codigo": "50605",
+    "codigoPadre": "506"
+  },
+  {
+    "nombre": "Juntas",
+    "codigo": "50701",
+    "codigoPadre": "507"
+  },
+  {
+    "nombre": "Sierra",
+    "codigo": "50702",
+    "codigoPadre": "507"
+  },
+  {
+    "nombre": "San Juan",
+    "codigo": "50703",
+    "codigoPadre": "507"
+  },
+  {
+    "nombre": "Colorado",
+    "codigo": "50704",
+    "codigoPadre": "507"
+  },
+  {
+    "nombre": "Tilarán",
+    "codigo": "50801",
+    "codigoPadre": "508"
+  },
+  {
+    "nombre": "Quebrada Grande",
+    "codigo": "50802",
+    "codigoPadre": "508"
+  },
+  {
+    "nombre": "Tronadora",
+    "codigo": "50803",
+    "codigoPadre": "508"
+  },
+  {
+    "nombre": "Santa Rosa",
+    "codigo": "50804",
+    "codigoPadre": "508"
+  },
+  {
+    "nombre": "Líbano",
+    "codigo": "50805",
+    "codigoPadre": "508"
+  },
+  {
+    "nombre": "Tierras Morenas",
+    "codigo": "50806",
+    "codigoPadre": "508"
+  },
+  {
+    "nombre": "Arenal",
+    "codigo": "50807",
+    "codigoPadre": "508"
+  },
+  {
+    "nombre": "Carmona",
+    "codigo": "50901",
+    "codigoPadre": "509"
+  },
+  {
+    "nombre": "Santa Rita",
+    "codigo": "50902",
+    "codigoPadre": "509"
+  },
+  {
+    "nombre": "Zapotal",
+    "codigo": "50903",
+    "codigoPadre": "509"
+  },
+  {
+    "nombre": "San Pablo",
+    "codigo": "50904",
+    "codigoPadre": "509"
+  },
+  {
+    "nombre": "Porvenir",
+    "codigo": "50905",
+    "codigoPadre": "509"
+  },
+  {
+    "nombre": "Bejuco",
+    "codigo": "50906",
+    "codigoPadre": "509"
+  },
+  {
+    "nombre": "La Cruz",
+    "codigo": "51001",
+    "codigoPadre": "510"
+  },
+  {
+    "nombre": "Santa Cecilia",
+    "codigo": "51002",
+    "codigoPadre": "510"
+  },
+  {
+    "nombre": "Garita",
+    "codigo": "51003",
+    "codigoPadre": "510"
+  },
+  {
+    "nombre": "Santa Elena",
+    "codigo": "51004",
+    "codigoPadre": "510"
+  },
+  {
+    "nombre": "Hojancha",
+    "codigo": "51101",
+    "codigoPadre": "511"
+  },
+  {
+    "nombre": "Monte Romo",
+    "codigo": "51102",
+    "codigoPadre": "511"
+  },
+  {
+    "nombre": "Puerto Carrillo",
+    "codigo": "51103",
+    "codigoPadre": "511"
+  },
+  {
+    "nombre": "Huacas",
+    "codigo": "51104",
+    "codigoPadre": "511"
+  },
+  {
+    "nombre": "Puntarenas",
+    "codigo": "60101",
+    "codigoPadre": "601"
+  },
+  {
+    "nombre": "Pitahaya",
+    "codigo": "60102",
+    "codigoPadre": "601"
+  },
+  {
+    "nombre": "Chomes",
+    "codigo": "60103",
+    "codigoPadre": "601"
+  },
+  {
+    "nombre": "Lepanto",
+    "codigo": "60104",
+    "codigoPadre": "601"
+  },
+  {
+    "nombre": "Paquera",
+    "codigo": "60105",
+    "codigoPadre": "601"
+  },
+  {
+    "nombre": "Manzanillo",
+    "codigo": "60106",
+    "codigoPadre": "601"
+  },
+  {
+    "nombre": "Guacimal",
+    "codigo": "60107",
+    "codigoPadre": "601"
+  },
+  {
+    "nombre": "Barranca",
+    "codigo": "60108",
+    "codigoPadre": "601"
+  },
+  {
+    "nombre": "Monte Verde",
+    "codigo": "60109",
+    "codigoPadre": "601"
+  },
+  {
+    "nombre": "Isla del Coco",
+    "codigo": "60110",
+    "codigoPadre": "601"
+  },
+  {
+    "nombre": "Cóbano",
+    "codigo": "60111",
+    "codigoPadre": "601"
+  },
+  {
+    "nombre": "Chacarita",
+    "codigo": "60112",
+    "codigoPadre": "601"
+  },
+  {
+    "nombre": "Chira",
+    "codigo": "60113",
+    "codigoPadre": "601"
+  },
+  {
+    "nombre": "Acapulco",
+    "codigo": "60114",
+    "codigoPadre": "601"
+  },
+  {
+    "nombre": "Roble",
+    "codigo": "60115",
+    "codigoPadre": "601"
+  },
+  {
+    "nombre": "Arancibia",
+    "codigo": "60116",
+    "codigoPadre": "601"
+  },
+  {
+    "nombre": "Espíritu Santo",
+    "codigo": "60201",
+    "codigoPadre": "602"
+  },
+  {
+    "nombre": "San Juan Grande",
+    "codigo": "60202",
+    "codigoPadre": "602"
+  },
+  {
+    "nombre": "Macacona",
+    "codigo": "60203",
+    "codigoPadre": "602"
+  },
+  {
+    "nombre": "San Rafael",
+    "codigo": "60204",
+    "codigoPadre": "602"
+  },
+  {
+    "nombre": "San Jerónimo",
+    "codigo": "60205",
+    "codigoPadre": "602"
+  },
+  {
+    "nombre": "Buenos Aires",
+    "codigo": "60301",
+    "codigoPadre": "603"
+  },
+  {
+    "nombre": "Volcán",
+    "codigo": "60302",
+    "codigoPadre": "603"
+  },
+  {
+    "nombre": "Potrero Grande",
+    "codigo": "60303",
+    "codigoPadre": "603"
+  },
+  {
+    "nombre": "Boruca",
+    "codigo": "60304",
+    "codigoPadre": "603"
+  },
+  {
+    "nombre": "Pilas",
+    "codigo": "60305",
+    "codigoPadre": "603"
+  },
+  {
+    "nombre": "Colinas o Bajo de Maíz",
+    "codigo": "60306",
+    "codigoPadre": "603"
+  },
+  {
+    "nombre": "Chánguena",
+    "codigo": "60307",
+    "codigoPadre": "603"
+  },
+  {
+    "nombre": "Bioley",
+    "codigo": "60308",
+    "codigoPadre": "603"
+  },
+  {
+    "nombre": "Brunka",
+    "codigo": "60309",
+    "codigoPadre": "603"
+  },
+  {
+    "nombre": "Miramar",
+    "codigo": "60401",
+    "codigoPadre": "604"
+  },
+  {
+    "nombre": "Unión",
+    "codigo": "60402",
+    "codigoPadre": "604"
+  },
+  {
+    "nombre": "San Isidro",
+    "codigo": "60403",
+    "codigoPadre": "604"
+  },
+  {
+    "nombre": "Puerto Cortés",
+    "codigo": "60501",
+    "codigoPadre": "605"
+  },
+  {
+    "nombre": "Palmar",
+    "codigo": "60502",
+    "codigoPadre": "605"
+  },
+  {
+    "nombre": "Sierpe",
+    "codigo": "60503",
+    "codigoPadre": "605"
+  },
+  {
+    "nombre": "Bahía Ballena",
+    "codigo": "60504",
+    "codigoPadre": "605"
+  },
+  {
+    "nombre": "Piedras Blancas",
+    "codigo": "60505",
+    "codigoPadre": "605"
+  },
+  {
+    "nombre": "Quepos",
+    "codigo": "60601",
+    "codigoPadre": "606"
+  },
+  {
+    "nombre": "Savegre",
+    "codigo": "60602",
+    "codigoPadre": "606"
+  },
+  {
+    "nombre": "Naranjito",
+    "codigo": "60603",
+    "codigoPadre": "606"
+  },
+  {
+    "nombre": "Golfito",
+    "codigo": "60701",
+    "codigoPadre": "607"
+  },
+  {
+    "nombre": "Puerto Jiménez",
+    "codigo": "60702",
+    "codigoPadre": "607"
+  },
+  {
+    "nombre": "Guaycará",
+    "codigo": "60703",
+    "codigoPadre": "607"
+  },
+  {
+    "nombre": "Pavon",
+    "codigo": "60704",
+    "codigoPadre": "607"
+  },
+  {
+    "nombre": "San Vito",
+    "codigo": "60801",
+    "codigoPadre": "608"
+  },
+  {
+    "nombre": "Sabalito",
+    "codigo": "60802",
+    "codigoPadre": "608"
+  },
+  {
+    "nombre": "Agua Buena",
+    "codigo": "60803",
+    "codigoPadre": "608"
+  },
+  {
+    "nombre": "Limoncito",
+    "codigo": "60804",
+    "codigoPadre": "608"
+  },
+  {
+    "nombre": "Pittier",
+    "codigo": "60805",
+    "codigoPadre": "608"
+  },
+  {
+    "nombre": "Parrita",
+    "codigo": "60901",
+    "codigoPadre": "609"
+  },
+  {
+    "nombre": "Corredor",
+    "codigo": "61001",
+    "codigoPadre": "610"
+  },
+  {
+    "nombre": "La Cuesta",
+    "codigo": "61002",
+    "codigoPadre": "610"
+  },
+  {
+    "nombre": "Paso Canoas",
+    "codigo": "61003",
+    "codigoPadre": "610"
+  },
+  {
+    "nombre": "Laurel",
+    "codigo": "61004",
+    "codigoPadre": "610"
+  },
+  {
+    "nombre": "Jacó",
+    "codigo": "61101",
+    "codigoPadre": "611"
+  },
+  {
+    "nombre": "Tárcoles",
+    "codigo": "61102",
+    "codigoPadre": "611"
+  },
+  {
+    "nombre": "Limón",
+    "codigo": "70101",
+    "codigoPadre": "701"
+  },
+  {
+    "nombre": "Valle La Estrella",
+    "codigo": "70102",
+    "codigoPadre": "701"
+  },
+  {
+    "nombre": "Río Blanco",
+    "codigo": "70103",
+    "codigoPadre": "701"
+  },
+  {
+    "nombre": "Matama",
+    "codigo": "70104",
+    "codigoPadre": "701"
+  },
+  {
+    "nombre": "Guápiles",
+    "codigo": "70201",
+    "codigoPadre": "702"
+  },
+  {
+    "nombre": "Jiménez",
+    "codigo": "70202",
+    "codigoPadre": "702"
+  },
+  {
+    "nombre": "Rita",
+    "codigo": "70203",
+    "codigoPadre": "702"
+  },
+  {
+    "nombre": "Roxana",
+    "codigo": "70204",
+    "codigoPadre": "702"
+  },
+  {
+    "nombre": "Cariari",
+    "codigo": "70205",
+    "codigoPadre": "702"
+  },
+  {
+    "nombre": "Colorado",
+    "codigo": "70206",
+    "codigoPadre": "702"
+  },
+  {
+    "nombre": "Siquirres",
+    "codigo": "70301",
+    "codigoPadre": "703"
+  },
+  {
+    "nombre": "Pacuarito",
+    "codigo": "70302",
+    "codigoPadre": "703"
+  },
+  {
+    "nombre": "Florida",
+    "codigo": "70303",
+    "codigoPadre": "703"
+  },
+  {
+    "nombre": "Germania",
+    "codigo": "70304",
+    "codigoPadre": "703"
+  },
+  {
+    "nombre": "Cairo",
+    "codigo": "70305",
+    "codigoPadre": "703"
+  },
+  {
+    "nombre": "Alegría",
+    "codigo": "70306",
+    "codigoPadre": "703"
+  },
+  {
+    "nombre": "Bratsi",
+    "codigo": "70401",
+    "codigoPadre": "704"
+  },
+  {
+    "nombre": "Sixaola",
+    "codigo": "70402",
+    "codigoPadre": "704"
+  },
+  {
+    "nombre": "Cahuita",
+    "codigo": "70403",
+    "codigoPadre": "704"
+  },
+  {
+    "nombre": "Telire",
+    "codigo": "70404",
+    "codigoPadre": "704"
+  },
+  {
+    "nombre": "Matina",
+    "codigo": "70501",
+    "codigoPadre": "705"
+  },
+  {
+    "nombre": "Batán",
+    "codigo": "70502",
+    "codigoPadre": "705"
+  },
+  {
+    "nombre": "Carrandí",
+    "codigo": "70503",
+    "codigoPadre": "705"
+  },
+  {
+    "nombre": "Guácimo",
+    "codigo": "70601",
+    "codigoPadre": "706"
+  },
+  {
+    "nombre": "Mercedes",
+    "codigo": "70602",
+    "codigoPadre": "706"
+  },
+  {
+    "nombre": "Pocora",
+    "codigo": "70603",
+    "codigoPadre": "706"
+  },
+  {
+    "nombre": "Río Jiménez",
+    "codigo": "70604",
+    "codigoPadre": "706"
+  },
+  {
+    "nombre": "Duacarí",
+    "codigo": "70605",
+    "codigoPadre": "706"
+  }
+]

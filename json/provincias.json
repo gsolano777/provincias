@@ -1,0 +1,30 @@
+[
+    {
+       "nombre":"San José",
+       "codigo":"1"
+    },
+    {
+       "nombre":"Alajuela",
+       "codigo":"2"
+    },
+    {
+       "nombre":"Cartago",
+       "codigo":"3"
+    },
+    {
+       "nombre":"Heredia",
+       "codigo":"4"
+    },
+    {
+       "nombre":"Guanacaste",
+       "codigo":"5"
+    },
+    {
+       "nombre":"Puntarenas",
+       "codigo":"6"
+    },
+    {
+       "nombre":"Limón",
+       "codigo":"7"
+    }
+ ]
